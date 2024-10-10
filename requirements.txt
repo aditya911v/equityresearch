@@ -4,5 +4,5 @@ beautifulsoup4
 numpy
 faiss-cpu
 sentence-transformers
-langchain
+langchain==0.0.249
 cohere
